@@ -15,7 +15,7 @@ Este é um projeto desenvolvido durante a Next Level Week da Rocketseat, onde cr
 
 ## 📝 Funcionalidades
 
-- 🔍 Pesquisa de destinos de viagem
+- 🔍 Convidar pessoas para a sua viagem
 - 🗺️ Adição de destinos ao planner
 - 🔄 Navegação entre rotas
 - 🔗 Integração com API para obter informações de destinos
