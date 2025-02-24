@@ -1,7 +1,7 @@
 
 ![Plann.er](public/trip-planner.png)
 
-# 🗺️ Planner de Viagens com React + TypeScript + Vite 🚀
+# 🗺️ Planner de Viagens com React + TypeScript + Vite
 
 ## 📚 Sobre o Projeto
 Este é um projeto desenvolvido durante a Next Level Week da Rocketseat, onde criamos uma aplicação completa utilizando React, TypeScript, Tailwind e Vite. O objetivo do projeto é construir um Planner de Viagens que permite aos usuários planejar suas viagens de forma fácil e intuitiva.
